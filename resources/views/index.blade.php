@@ -220,7 +220,7 @@
                     <h5 class="text-uppercase mb-4 font-weight-bold text-info">Kontak</h5>
                     <p><i class="fas fa-home me-2"></i> Bandung, Indonesia</p>
                     <p><i class="fas fa-envelope me-2"></i> info@TemanBaca.id</p>
-                    <p><i class="fas fa-phone me-2"></i> +62 812 3456 7890</p>
+                    <p><i class="fas fa-phone me-2"></i> +62 899 3706 427</p>
                 </div>
             </div>
 
@@ -230,7 +230,7 @@
                     <p>© 2025 TemanBaca. Semua Hak Dilindungi.</p>
                 </div>
                 <div class="col-md-5 col-lg-4">
-                    <p class="text-end">Dibuat dengan ❤️ oleh Developer Indonesia</p>
+                    <p class="text-end">Mohammad Rais Setiadi</p>
                 </div>
             </div>
         </div>
